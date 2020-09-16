@@ -16,7 +16,7 @@
     "js-yaml": "^3.2.5",
     "carto": "^1.0.1",
     "underscore": "^1.7.0",
-    "mapnik-reference": "^8.7.0"
+    "mapnik-reference": "^8.10.0"
   },
   "peerDependencies": {
     "mapnik": "^4.5.2"
