@@ -214,8 +214,4 @@ TMSource.registerProtocols = function(tilelive) {
   tilelive.protocols["tmsource:"] = this;
 };
 
-module.exports = function(tilelive, options) {
-  TMSource.registerProtocols(tilelive);
-
-  return TMSource;
-};
+module.exports = TMSource;
